@@ -1,5 +1,8 @@
 # Cryptocurrency Market
 Wow! .Ver2
+
+New Edit!
+
 This is a simple Progressive Web App using Angular 5 that tracks real-time cryptocurrency prices. Find your top favourite coins here, like Bitcoin, Ethereum, Ripple and more. What's more, you can add this app to your iPhone and Android Home Screen now.
 
 ## Environment
